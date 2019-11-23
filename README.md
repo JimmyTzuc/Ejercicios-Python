@@ -10,6 +10,7 @@ _Si tienes mas ejercicios para agregar no dudes en hacer un pull request._ 😊
 ## ⌨️ Ejercicios:
 
 * **Ejercicio 1** - *[Vocales](exercises/vocales.md)*
+* **Ejercicio 2** - *[El problema de la Pi](exercises/pi.md)*
 
 
 ___
