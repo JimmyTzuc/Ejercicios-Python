@@ -11,6 +11,7 @@ _Si tienes mas ejercicios para agregar no dudes en hacer un pull request._ 😊
 
 * **Ejercicio 1** - *[Vocales](exercises/vocales.md)*
 * **Ejercicio 2** - *[El problema de la Pi](exercises/pi.md)*
+* **Ejercicio 3** - *[¿Me puedes dar la hora?](exercises/fecha_hora.md)*
 
 
 ___
