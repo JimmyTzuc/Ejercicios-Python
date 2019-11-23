@@ -15,4 +15,4 @@ Escribe un caracter: x
 False
 ```
 
-[Ver solución](solutions/vocales.py)
+[Ver solución]

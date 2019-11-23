@@ -18,4 +18,4 @@ $ python pi.py
 ```
 
 
-[Ver solución](solutions/pi.py)
+[Ver solución](../solutions/pi.py)
